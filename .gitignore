@@ -1,0 +1,8 @@
+out/
+tmp/
+lib/pfte.jar
+lib/*.dll
+lib/*.sha3
+lib/*.cfg
+*.class
+.DS_Store
